@@ -1,1 +1,5 @@
 theme: jekyll-theme-merlot
+title: GitHub pages チュートリアル
+description: 自己紹介　林田　達郎
+github:
+  is_project_page: false
